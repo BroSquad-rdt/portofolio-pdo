@@ -30,7 +30,7 @@
 </head>
 
 <body>
-
+<!-- tes -->
     <nav class="navbar">
         <div class="container">
             <a href="index.php" class="logo">Portofolio SMK</a>
